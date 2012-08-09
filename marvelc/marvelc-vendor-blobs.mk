@@ -9,6 +9,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/marvelc/proprietary/AudioPara4.csv:/system/etc/AudioPara4.csv \
     vendor/htc/marvelc/proprietary/AudioPara4_WB.csv:/system/etc/AudioPara4_WB.csv \
     vendor/htc/marvelc/proprietary/AudioPreProcess.csv:/system/etc/AudioPreProcess.csv \
+    vendor/htc/marvelc/proprietary/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
+    vendor/htc/marvelc/proprietary/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin \
+    vendor/htc/marvelc/proprietary/fw_bcm4329_apsta.bin:system/etc/firmware/fw_bcm4329_apsta.bin \
     vendor/htc/marvelc/proprietary/WPDB.zip:/system/etc/WPDB.zip \
     vendor/htc/marvelc/proprietary/yamato_pfp.fw:/system/etc/firmware/yamato_pfp.fw \
     vendor/htc/marvelc/proprietary/yamato_pm4.fw:/system/etc/firmware/yamato_pm4.fw \
